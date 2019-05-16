@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Suite Test" duration-ms="16" started-at="2019-04-28T10:13:46Z" finished-at="2019-04-28T10:13:46Z">
+    <groups>
+    </groups>
+    <test name="D:/Auto/PractiseTest" duration-ms="16" started-at="2019-04-28T10:13:46Z" finished-at="2019-04-28T10:13:46Z">
+      <class name="test002Test">
+        <test-method status="PASS" signature="test001()[pri:0, instance:test002Test@d70c109]" name="test001" duration-ms="0" started-at="2019-04-28T18:13:46Z" finished-at="2019-04-28T18:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+      </class> <!-- test002Test -->
+      <class name="test001Test">
+        <test-method status="PASS" signature="test1()[pri:0, instance:test001Test@50cbc42f]" name="test1" duration-ms="7" started-at="2019-04-28T18:13:46Z" finished-at="2019-04-28T18:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:test001Test@50cbc42f]" name="test2" duration-ms="0" started-at="2019-04-28T18:13:46Z" finished-at="2019-04-28T18:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- test001Test -->
+    </test> <!-- D:/Auto/PractiseTest -->
+  </suite> <!-- All Suite Test -->
+</testng-results>

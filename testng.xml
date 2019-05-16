@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Suite Test">
+    <test verbose="2" preserve-order="true" name="D:/Auto/PractiseTest">
+        <classes>
+            <class name="test001Test">
+                <methods>
+                    <include name="test1"></include>
+                    <include name="test2"></include>
+                </methods>
+            </class>
+            <class name="test002Test">
+                <methods>
+                    <include name="test001"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
