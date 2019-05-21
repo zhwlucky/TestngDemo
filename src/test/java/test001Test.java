@@ -22,6 +22,10 @@ public class test001Test {
     public void test4(){
         System.out.println("004");
     }
+    @Test
+    public void test5(){
+        System.out.println("005");
+    }
 
 
 
